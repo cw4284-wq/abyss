@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  abyss is a sleek, modern hub for over 3000 unblocked games, movies and tv, music, and AI, built by students, for students. jam-packed with heavy customization, stealthy tab cloaking, themes, tons of content and a built-in ad shield. no restrictions, zero ads. 100% free and open-source. made with 🖤 by abyss network
+  abyss is a sleek, modern hub for over 520 (and growing) unblocked games, movies and tv, music, and AI, built by students, for students. jam-packed with heavy customization, stealthy tab cloaking, themes, tons of content and a built-in ad shield. no restrictions, zero ads. 100% free and open-source. made with 🖤 by abyss network
 </p>
  
 <hr>
