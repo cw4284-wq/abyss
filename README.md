@@ -15,7 +15,7 @@
 
 ## roadmap
 
-* [x] unblocked games (3000+)
+* [x] unblocked games (520+)
 * [x] movies & tv
 * [x] music hub
 * [x] AI assistant
