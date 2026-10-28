@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="abyss homepage" src="abyss favicon.png" />
+</p>
 <h1 align="center">abyss</h1>
 
 <p align="center">
